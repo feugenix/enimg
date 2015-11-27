@@ -1,0 +1,6 @@
+{
+  "name": "enimg",
+  "dependencies": {
+    "canvas": "^1.2.3"
+  }
+}
